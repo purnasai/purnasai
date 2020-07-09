@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**purnasai/purnasai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Data Scientist in a startup at Hyderabad worked on various tools and technologies like **Machine learning, Deep Learning and Data Science with a broad knowledge and implementations like Object Detection, Object Classification, Instance segmentation, Semantic segmentation, keypoint segmentation, Face detection, OCR** and a lot more.
 
-Here are some ideas to get you started:
+- Has a Deep interest in Research in Computer vision, Image and Video Analysis that fits into Various Business models that make mankind live easy and comfortable.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Design and implement Machine Learning, AI and Deep Learning-based solutions to enable proactive and data-driven solutions.
+
+
+Very Ardent to learn new tools and technologies that help mankind for a better future. an avid supporter of self-learning and massive open online courses.
+
+- I believe "Smooth sea never makes a skilful sailor".
+
+▸ medium.com/@purnasaigudikandula
+
+▸ github.com/purnasai
+
+▸ twitter.com/gpurnasai
+
+
