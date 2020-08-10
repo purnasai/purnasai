@@ -13,8 +13,6 @@ Very Ardent to learn new tools and technologies that help mankind for a better f
 
 ▸ medium.com/@purnasaigudikandula
 
-▸ github.com/purnasai
-
 ▸ twitter.com/gpurnasai
 
 
