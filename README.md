@@ -7,12 +7,3 @@ I am a Data Scientist in a startup at Hyderabad worked on various tools and tech
 - Design and implement Machine Learning, AI and Deep Learning-based solutions to enable proactive and data-driven solutions.
 
 
-Very Ardent to learn new tools and technologies that help mankind for a better future. an avid supporter of self-learning and massive open online courses.
-
-- I believe "Smooth sea never makes a skilful sailor".
-
-▸ medium.com/@purnasaigudikandula
-
-▸ twitter.com/gpurnasai
-
-
