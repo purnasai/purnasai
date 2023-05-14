@@ -5,3 +5,6 @@ I am a Senior Data Scientist worked on various tools and technologies like **Mac
 - Has a Deep interest in Research in Computer vision, Image and Video Analysis that fits into Various Business models that make mankind live easy and comfortable.
 
 - Design and implement Machine Learning, AI and Deep Learning-based solutions to enable proactive and data-driven solutions.
+
+linkedin- https://www.linkedin.com/in/purnasai-gudikandula/
+Medium - https://medium.com/@purnasaigudikandula
