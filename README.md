@@ -19,6 +19,7 @@ and in MultiModality:
 - OCR
 - CLIP
 - DINO
+- Image captioning
 
 
 🔬 My research interests are in bridging vision and language modalities or MultiModality Space +Diffusers.
