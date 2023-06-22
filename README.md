@@ -1,8 +1,27 @@
 ### Hi there, I am purnasai 👋
 
-I am a Senior Data Scientist worked on various tools and technologies like **Machine learning, Deep Learning and Data Science with a broad knowledge and implementations like Object Detection, Object Classification, Instance segmentation, Semantic segmentation, keypoint segmentation, Face detection, OCR** and a lot more.
+I am a Senior Data Scientist/Research enthusiast. I have worked on Computer vision:
+- Object Detection
+- Object Classification
+- Instance segmentation
+- Semantic segmentation
+- keypoint segmentation
+- Face detection
+- Image similarity
+- and OCR.
 
-Has a Deep interest in Research in Computer vision, Image and Video Analysis that fits into Various Business models. Design and implement Machine Learning, AI and Deep Learning-based solutions to enable proactive and data-driven solutions.
+and in NLP:
+- Text classification
+- Text summarization(abstract&extract)
+- Text translation
+
+and in MultiModality:
+- OCR
+- CLIP
+- DINO
+
+
+🔬 My research interests are in bridging vision and language modalities or MultiModality Space +Diffusers.
 
 - Portfolio - https://purnasai.github.io/
 - linkedin- https://www.linkedin.com/in/purnasai-gudikandula/
