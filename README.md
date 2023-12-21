@@ -1,6 +1,7 @@
 ### Hi there, I am purnasai 👋
 
-I am a Senior Data Scientist/Research enthusiast. I have worked on Computer vision:
+I am a Senior Data Scientist/Research enthusiast. 
+I have worked on Traditional ML and Computer vision:
 |    |    |
 |---|---|
 | Object Detection   |           Object Classification|
