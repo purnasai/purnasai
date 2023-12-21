@@ -14,9 +14,11 @@ and in NLP and in Multimodality:
 | Text classification       | CLIP |
 | Text summarization(abstract&extract)   |   DINO |
 | Text translation        |          Image captioning |
+| Large Language Models        |          MultiModal RAG |
 
 🔬 My research interests are in bridging vision and language modalities or MultiModality Space +Diffusers.
 
 - Portfolio - https://purnasai.github.io/
 - linkedin- https://www.linkedin.com/in/purnasai-gudikandula/
 - Medium - https://medium.com/@purnasaigudikandula
+- Github - https://github.com/purnasai
